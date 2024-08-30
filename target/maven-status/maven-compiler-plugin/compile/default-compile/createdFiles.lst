@@ -1,0 +1,7 @@
+com\fullstack\api_product\entity\Product.class
+com\fullstack\api_product\service\ProductService.class
+com\fullstack\api_product\repository\ProductRepository.class
+com\fullstack\api_product\service\ProducServiceImpl.class
+com\fullstack\api_product\ApiProductApplication.class
+com\fullstack\api_product\WebConfiguration.class
+com\fullstack\api_product\controller\ProductController.class
